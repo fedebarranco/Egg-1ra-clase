@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class HolaMundo {
 
     public static void main(String args[]) {
-
+        System.out.println("Hola mundo");
         inicio:
         for (var contador = 0; contador < 3; contador++) {
             if (contador % 2 != 0) {
